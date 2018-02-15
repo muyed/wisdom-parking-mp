@@ -1,0 +1,5 @@
+<view class='box'>
+  <map longitude="{{longitude}}" latitude="{{latitude}}" show-location="true" 
+    controls="{{controls}}" bindcontroltap="controltap">
+  </map>
+</view>

@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#555555",
+    "navigationBarTitleText": "停哪儿",
+    "navigationBarTextStyle":"white"
+  }
+}
